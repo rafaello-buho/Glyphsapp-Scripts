@@ -1,4 +1,4 @@
-#MenuTitle: Open Tab with selected Glyphs & HH*HHOO*OO (GUI)
+#MenuTitle: Selection & HH*HHOO*OO to Tab
 
 import GlyphsApp
 import vanilla
